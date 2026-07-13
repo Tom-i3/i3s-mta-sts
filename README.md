@@ -1,1 +1,1 @@
-include: [".well-known"]
+MTA-STS Policy File
